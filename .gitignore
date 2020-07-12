@@ -1,0 +1,14 @@
+/.vscode
+/destination
+/dp_input
+/dp-input
+/dp_input_archive
+/input
+/node_modules
+/rsyncdata
+/stored
+/test-output
+/output
+/edge_cases
+/bandage
+*.log
